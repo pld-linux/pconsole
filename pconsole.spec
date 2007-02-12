@@ -1,5 +1,5 @@
 Summary:	Administrative tool for working with clusters of machines
-Summary(pl):	Narzêdzie administracyjne do pracy z klastrami maszyn
+Summary(pl.UTF-8):   NarzÄ™dzie administracyjne do pracy z klastrami maszyn
 Name:		pconsole
 Version:	1.0
 Release:	0.1
@@ -23,16 +23,16 @@ possible to employ it without X (in console mode) as well.
 You need to install pconsole on only 1 machine in the cluster, this
 would usually be your central administrative node.
 
-%description -l pl
-pconsole umo¿liwia po³±czenie siê z ka¿dym wêz³em klastra jednocze¶nie
-i pisanie poleceñ administracyjnych w specjalnym oknie
-"zwielokrotniaj±cym" wej¶cie na ka¿de otwarte po³±czenie.
+%description -l pl.UTF-8
+pconsole umoÅ¼liwia poÅ‚Ä…czenie siÄ™ z kaÅ¼dym wÄ™zÅ‚em klastra jednoczeÅ›nie
+i pisanie poleceÅ„ administracyjnych w specjalnym oknie
+"zwielokrotniajÄ…cym" wejÅ›cie na kaÅ¼de otwarte poÅ‚Ä…czenie.
 
-pconsole najlepiej uruchamiaæ z poziomu X Window System, choæ mo¿liwe
-jest tak¿e uruchomienie go bez X (w trybie konsolowym).
+pconsole najlepiej uruchamiaÄ‡ z poziomu X Window System, choÄ‡ moÅ¼liwe
+jest takÅ¼e uruchomienie go bez X (w trybie konsolowym).
 
-Wystarczy zainstalowaæ pconsole na tylko jednej maszynie w klastrze,
-zazwyczaj robi siê to na centralnym, administracyjnym wê¼le.
+Wystarczy zainstalowaÄ‡ pconsole na tylko jednej maszynie w klastrze,
+zazwyczaj robi siÄ™ to na centralnym, administracyjnym wÄ™Åºle.
 
 %prep
 %setup -q
