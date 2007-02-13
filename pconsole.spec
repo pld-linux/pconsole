@@ -1,5 +1,5 @@
 Summary:	Administrative tool for working with clusters of machines
-Summary(pl.UTF-8):   Narzędzie administracyjne do pracy z klastrami maszyn
+Summary(pl.UTF-8):	Narzędzie administracyjne do pracy z klastrami maszyn
 Name:		pconsole
 Version:	1.0
 Release:	0.1
